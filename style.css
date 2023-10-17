@@ -1,0 +1,63 @@
+body {
+    font-weight: 100px;
+    box-sizing: border-box;
+    background-image: url(https://wallpaperset.com/w/full/7/a/3/205861.jpg);
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    background-color: rgb(233, 235, 233);
+}
+tr {
+display: table-row;
+}
+table { 
+    background-color: beige;
+    text-decoration: underline;
+    border: 3px goldenrod solid;
+    width: 800px;
+    margin:0 auto;
+}
+tbody {
+ display: table-row-group;
+}
+
+h1 { 
+    
+    color: rgb(212, 218, 38);
+    text-decoration: underline;
+}
+h2 { 
+    
+    margin: 20px auto;
+    width: fit-content;
+    border: 1px black solid;
+    background-color: rgb(212, 218, 38);
+    border-radius: 20%;
+    opacity: 0.8;
+}
+.cod { 
+    color: rgb(253, 7, 3);
+}
+#img1 { 
+    
+    width: 50px;
+    height: 50px;
+    position: relative;
+
+    top: 190px;
+    left: 950px;
+}
+
+#img2 {
+    width: 50px;
+    height: 50px;
+    position: relative;
+    
+    top: 600px;
+    left: 970px;
+}
+
+th {
+    background-color: goldenrod;
+  text-decoration:  underline;
+
+}
